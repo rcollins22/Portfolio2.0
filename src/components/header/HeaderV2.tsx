@@ -58,6 +58,9 @@ const HeaderV2 = () => {
                                         <li className="button">
                                             <Link className="smooth-menu" to="/contact">{`Let's Talk`} <i className="fas fa-comment-alt" /></Link>
                                         </li>
+                                        <li className="theme-toggle-wrapper">
+                                            <ThemeToggle />
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
