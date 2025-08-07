@@ -94,23 +94,6 @@ const AboutV1 = () => {
                             </div>
                         </div>
                     </div>
-                    <div className="about-style-one-bottom-info mt-50">
-                        <div className="row">
-                            <div className="col-lg-8 pr-60 pr-md-15 pr-xs-15">
-                                <div className="img-container">
-                                    <img src={about1} alt="Image Not Found" />
-                                    <Link to="#" className="popup-youtube video-play-button" onClick={() => setOpen(true)} >
-                                        <i className="fas fa-play" />
-                                        <div className="effect" />
-                                    </Link>
-                                    <ModalVideo channel='youtube' isOpen={isOpen} videoId="aTC_RNYtEb0" onClose={() => setOpen(false)} />
-                                </div>
-                            </div>
-                            <div className="col-lg-4">
-                                <img src={about2} alt="Image Not Found" />
-                            </div>
-                        </div>
-                    </div>
                 </div>
             </div>
         </>

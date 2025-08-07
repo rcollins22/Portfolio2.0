@@ -12,10 +12,9 @@ const FooterV1 = () => {
                                 <Link to="/" className="footer-logot"><img src={logo} alt="Image Not Found" /></Link>
                                 <ul className="foter-menu">
                                     <li><Link to="/">Home</Link></li>
-                                    <li><Link to="/service">Services</Link></li>
+                                    <li><Link to="/service">Skills</Link></li>
                                     <li><Link to="/projects/2">Portfolio</Link></li>
                                     <li><Link to="/blog-with-sidebar">Blog</Link></li>
-                                    <li><Link to="/contact">Contact</Link></li>
                                 </ul>
                                 <p>Copyright  &copy; {(new Date().getFullYear())} Antux. All Rights Reserved</p>
                             </div>
