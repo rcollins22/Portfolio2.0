@@ -6,6 +6,7 @@ interface DataType {
 
 const ScrollMenu: React.FC<DataType> = ({ closeMenu }) => {
     return (
+        <>
             <li>
                 <Link className="smooth-menu" to="services" offset={-50} onClick={closeMenu}>Skills</Link>
             </li>
@@ -15,6 +16,7 @@ const ScrollMenu: React.FC<DataType> = ({ closeMenu }) => {
             <li>
                 <Link className="smooth-menu" to="resume" offset={-50} onClick={closeMenu}>Resume</Link>
             </li>
+        </>
         </>
     );
 };
