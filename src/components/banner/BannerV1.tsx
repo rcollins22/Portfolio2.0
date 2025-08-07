@@ -34,7 +34,7 @@ const BannerV1 = () => {
                                         </span>
                                     </h2>
                                     <p>
-                                        Hi, my name is Dalton Grant and I began using WordPress when it first began. I’ve spent most of my waking hours for the last ten years designing, programming and operating WordPress sites.
+                                        Hi, my name is Rashad Collins and I began using WordPress when it first began. I’ve spent most of my waking hours for the last ten years designing, programming and operating WordPress sites.
                                     </p>
                                     <div className="flex-social mt-40">
                                         <div className="button">
