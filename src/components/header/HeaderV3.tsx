@@ -41,7 +41,6 @@ const HeaderV3 = () => {
                                 <i className="fa fa-times" />
                             </button>
                             <ul className="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
-                                <ThemeToggle />
                                 <ScrollMenu closeMenu={closeMenu} />
                             </ul>
                         </div>
