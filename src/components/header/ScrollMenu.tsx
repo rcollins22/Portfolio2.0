@@ -17,7 +17,6 @@ const ScrollMenu: React.FC<DataType> = ({ closeMenu }) => {
                 <Link className="smooth-menu" to="resume" offset={-50} onClick={closeMenu}>Resume</Link>
             </li>
         </>
-        </>
     );
 };
 
