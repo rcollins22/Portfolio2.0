@@ -40,26 +40,26 @@ const PriceV1 = ({ sectionClass, hasTitle }: DataType) => {
                                             <i className="fab fa-wordpress" />
                                         </div>
                                         <div className="left">
-                                            <h4>WordPress Development</h4>
+                                            <h4>Web Application Development</h4>
                                             <p>
-                                                Simple and flexible per - user pricing
+                                                Custom web applications built with modern technologies
                                             </p>
                                         </div>
                                     </div>
                                     <div className="content">
                                         <div className="price">
-                                            <h2><sup>$</sup>48</h2>
+                                            <h2><sup>$</sup>85</h2>
                                         </div>
                                         <ul>
-                                            <li>1 Page with Elementor</li>
-                                            <li>Design Customization</li>
+                                            <li>React/Next.js Frontend</li>
+                                            <li>Custom UI/UX Design</li>
                                             <li>Responsive Design</li>
-                                            <li>1 Page with Elementor</li>
-                                            <li>Design Customization</li>
-                                            <li>Responsive Design</li>
+                                            <li>API Integration</li>
+                                            <li>Performance Optimization</li>
+                                            <li>Testing & Documentation</li>
                                         </ul>
                                         <div className="button mt-30">
-                                            <Link className="btn-style-regular" to="/contact"><span>Order Now</span> <i className="fas fa-arrow-right" /></Link>
+                                            <Link className="btn-style-regular" to="/contact"><span>Get Quote</span> <i className="fas fa-arrow-right" /></Link>
                                         </div>
                                     </div>
                                 </div>
@@ -75,26 +75,26 @@ const PriceV1 = ({ sectionClass, hasTitle }: DataType) => {
                                             <i className="fab fa-bootstrap" />
                                         </div>
                                         <div className="left">
-                                            <h4>Static frontend design</h4>
+                                            <h4>Full Stack Solution</h4>
                                             <p>
-                                                Simple and flexible per - user pricing
+                                                Complete application with backend and database
                                             </p>
                                         </div>
                                     </div>
                                     <div className="content">
                                         <div className="price">
-                                            <h2><sup>$</sup>28</h2>
+                                            <h2><sup>$</sup>120</h2>
                                         </div>
                                         <ul>
-                                            <li>2 Page with Bootstrap5</li>
-                                            <li>Design implement</li>
+                                            <li>Frontend + Backend</li>
+                                            <li>Database Design</li>
                                             <li>Responsive Design</li>
-                                            <li>2 Page with Bootstrap5</li>
-                                            <li>Design implement</li>
-                                            <li>Responsive Design</li>
+                                            <li>Authentication System</li>
+                                            <li>API Development</li>
+                                            <li>Deployment & Hosting</li>
                                         </ul>
                                         <div className="button mt-30">
-                                            <Link className="btn-style-regular btn-border" to="/contact"><span>Order Now</span> <i className="fas fa-arrow-right" /></Link>
+                                            <Link className="btn-style-regular btn-border" to="/contact"><span>Get Quote</span> <i className="fas fa-arrow-right" /></Link>
                                         </div>
                                     </div>
                                 </div>

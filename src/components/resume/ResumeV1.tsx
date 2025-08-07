@@ -20,21 +20,20 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                         <div className="timeline-style-one-item">
                                             <div className="timeline-header">
                                                 <div className="left">
-                                                    <h4>Lead Developer</h4>
+                                                    <h4>Software Engineer</h4>
                                                     <p>
-                                                        Blockdots, London
+                                                        Blockdots
                                                     </p>
                                                 </div>
                                                 <div className="right">
-                                                    <span>2022 - Present</span>
+                                                    <span>2021 - Present</span>
                                                 </div>
                                             </div>
                                             <div className="timeline-body">
                                                 <p>
-                                                    The education should be very interactual. Ut tincidunt est ac dolor aliquam
-                                                    sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                                    hendrerit ante. sectors of the economy or areas of culture sed mauris hendrerit,
-                                                    laoreet smart software.
+                                                    Leading development of scalable web applications using modern JavaScript frameworks. 
+                                                    Collaborating with cross-functional teams to deliver high-quality software solutions. 
+                                                    Implementing best practices in code architecture, testing, and deployment processes.
                                                 </p>
                                             </div>
                                         </div>
@@ -45,21 +44,20 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                         <div className="timeline-style-one-item">
                                             <div className="timeline-header">
                                                 <div className="left">
-                                                    <h4>Full Stack Web Developer</h4>
+                                                    <h4>UI/UX Designer</h4>
                                                     <p>
-                                                        Parsons, The New School
+                                                        Previous Role
                                                     </p>
                                                 </div>
                                                 <div className="right">
-                                                    <span>2021 - 2022</span>
+                                                    <span>2018 - 2021</span>
                                                 </div>
                                             </div>
                                             <div className="timeline-body">
                                                 <p>
-                                                    The education should be very interactual. Ut tincidunt est ac dolor aliquam
-                                                    sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                                    hendrerit ante. sectors of the economy or areas of culture sed mauris hendrerit,
-                                                    laoreet smart software.
+                                                    Designed and prototyped user-centered digital experiences with focus on usability 
+                                                    and accessibility. Created wireframes, mockups, and interactive prototypes. 
+                                                    Conducted user research and usability testing to inform design decisions.
                                                 </p>
                                             </div>
                                         </div>
@@ -70,21 +68,20 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                         <div className="timeline-style-one-item">
                                             <div className="timeline-header">
                                                 <div className="left">
-                                                    <h4>UI Designer</h4>
+                                                    <h4>Junior Developer</h4>
                                                     <p>
-                                                        House of Life, Leeds
+                                                        Early Career
                                                     </p>
                                                 </div>
                                                 <div className="right">
-                                                    <span>2018 - 2023</span>
+                                                    <span>2016 - 2018</span>
                                                 </div>
                                             </div>
                                             <div className="timeline-body">
                                                 <p>
-                                                    The education should be very interactual. Ut tincidunt est ac dolor aliquam
-                                                    sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                                    hendrerit ante. sectors of the economy or areas of culture sed mauris hendrerit,
-                                                    laoreet smart software.
+                                                    Built foundational skills in web development and software engineering. 
+                                                    Contributed to various projects while learning industry best practices. 
+                                                    Developed proficiency in multiple programming languages and frameworks.
                                                 </p>
                                             </div>
                                         </div>
@@ -102,21 +99,20 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                         <div className="timeline-style-one-item">
                                             <div className="timeline-header">
                                                 <div className="left">
-                                                    <h4>Programming Course</h4>
+                                                    <h4>Computer Science Degree</h4>
                                                     <p>
-                                                        Harverd University
+                                                        University Education
                                                     </p>
                                                 </div>
                                                 <div className="right">
-                                                    <span>2006 - 2014</span>
+                                                    <span>2012 - 2016</span>
                                                 </div>
                                             </div>
                                             <div className="timeline-body">
                                                 <p>
-                                                    The education should be very interactual. Ut tincidunt est ac dolor aliquam
-                                                    sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                                    hendrerit ante. sectors of the economy or areas of culture sed mauris hendrerit,
-                                                    laoreet smart software.
+                                                    Comprehensive study of computer science fundamentals including algorithms, 
+                                                    data structures, software engineering principles, and system design. 
+                                                    Strong foundation in mathematics and problem-solving methodologies.
                                                 </p>
                                             </div>
                                         </div>
@@ -127,21 +123,20 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                         <div className="timeline-style-one-item">
                                             <div className="timeline-header">
                                                 <div className="left">
-                                                    <h4>Graphic Design Course</h4>
+                                                    <h4>Web Development Certification</h4>
                                                     <p>
-                                                        Blockdots, London
+                                                        Professional Development
                                                     </p>
                                                 </div>
                                                 <div className="right">
-                                                    <span>2016 - 2020</span>
+                                                    <span>2015 - 2016</span>
                                                 </div>
                                             </div>
                                             <div className="timeline-body">
                                                 <p>
-                                                    The education should be very interactual. Ut tincidunt est ac dolor aliquam
-                                                    sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                                    hendrerit ante. sectors of the economy or areas of culture sed mauris hendrerit,
-                                                    laoreet smart software.
+                                                    Intensive training in modern web development technologies and frameworks. 
+                                                    Hands-on experience with HTML5, CSS3, JavaScript, and responsive design principles. 
+                                                    Practical projects focusing on real-world application development.
                                                 </p>
                                             </div>
                                         </div>
@@ -152,21 +147,20 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                         <div className="timeline-style-one-item">
                                             <div className="timeline-header">
                                                 <div className="left">
-                                                    <h4>Web design course</h4>
+                                                    <h4>Design Fundamentals</h4>
                                                     <p>
-                                                        University of California
+                                                        Continuing Education
                                                     </p>
                                                 </div>
                                                 <div className="right">
-                                                    <span>2012 - 2015</span>
+                                                    <span>2014 - 2015</span>
                                                 </div>
                                             </div>
                                             <div className="timeline-body">
                                                 <p>
-                                                    The education should be very interactual. Ut tincidunt est ac dolor aliquam
-                                                    sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris
-                                                    hendrerit ante. sectors of the economy or areas of culture sed mauris hendrerit,
-                                                    laoreet smart software.
+                                                    Comprehensive study of design principles, color theory, and user experience fundamentals. 
+                                                    Training in industry-standard design tools and methodologies. 
+                                                    Focus on creating user-centered designs that balance aesthetics with functionality.
                                                 </p>
                                             </div>
                                         </div>

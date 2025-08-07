@@ -21,24 +21,28 @@ const BannerV1 = () => {
                         <div className="col-lg-12">
                             <div className="banner-style-one-items">
                                 <div className="info">
-                                    <h1>I👋 am Rashad </h1>
+                                    <h1>Hello👋 I'm Rashad Collins</h1>
                                     <h2>
                                         <span className="header-caption" id="page-top">
                                             <span className="cd-headline clip is-full-width">
                                                 <span className="cd-words-wrapper">
                                                     <ReactTyped
-                                                        strings={textLines} typeSpeed={35} backSpeed={35} backDelay={2000} loop>
+                                                        strings={[
+                                                            '<b className="">Software Engineer</b>',
+                                                            '<b className="">Full Stack Developer</b>',
+                                                            '<b className="">UI/UX Designer</b>'
+                                                        ]} typeSpeed={35} backSpeed={35} backDelay={2000} loop>
                                                     </ReactTyped>
                                                 </span>
                                             </span>
                                         </span>
                                     </h2>
                                     <p>
-                                        Hi, my name is Rashad Collins and I began using WordPress when it first began. I’ve spent most of my waking hours for the last ten years designing, programming and operating WordPress sites.
+                                        Software Engineer with proven experience building scalable web applications and intuitive user interfaces. Currently leading development initiatives at Blockdots, with a strong foundation in modern JavaScript frameworks, responsive design, and full-stack development.
                                     </p>
                                     <div className="flex-social mt-40">
                                         <div className="button">
-                                            <Link className="btn-style-regular" to="/contact"><span>Hire Me Now</span> <i className="fas fa-arrow-right" /></Link>
+                                            <Link className="btn-style-regular" to="/contact"><span>Let's Connect</span> <i className="fas fa-arrow-right" /></Link>
                                         </div>
                                         <ul className="social-info">
                                             <SocialShareV1 />

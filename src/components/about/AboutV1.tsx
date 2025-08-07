@@ -58,17 +58,17 @@ const AboutV1 = () => {
                             <div className="fun-fact-style-one-items">
                                 <div className="fun-fact">
                                     <div className="counter">
-                                        <div className="timer"> <CountUp end={12} enableScrollSpy={true} /></div>
+                                        <div className="timer"> <CountUp end={5} enableScrollSpy={true} /></div>
                                         <div className="operator">+</div>
                                     </div>
-                                    <span className="medium">Years of Experience</span>
+                                    <span className="medium">Years of Professional Experience</span>
                                 </div>
                                 <div className="fun-fact">
                                     <div className="counter">
-                                        <div className="timer"><CountUp end={138} enableScrollSpy={true} /></div>
+                                        <div className="timer"><CountUp end={50} enableScrollSpy={true} /></div>
                                         <div className="operator">+</div>
                                     </div>
-                                    <span className="medium">Projects completed on 30 countries</span>
+                                    <span className="medium">Projects Delivered</span>
                                 </div>
                             </div>
                             <div className="clieents-list mt-40">
@@ -80,7 +80,7 @@ const AboutV1 = () => {
                                         <img src={team17} alt="Image Not Found" />
                                     </div>
                                     <div className="info">
-                                        <h5>20K+ Clients</h5>
+                                        <h5>Happy Clients</h5>
                                     </div>
                                 </div>
                             </div>
@@ -88,9 +88,9 @@ const AboutV1 = () => {
                         <div className="col-lg-7 pl-80 pl-md-15 pl-xs-15">
                             <div className="about-style-one-info">
                                 <p>
-                                    As a skilled web developer, I specialize in creating responsive, user-friendly websites with a focus on modern design and efficient code. I excel in front-end development, with a deep understanding of HTML, CSS, JavaScript, and various frameworks. My passion is turning ideas into functional and aesthetically pleasing digital experiences.
+                                    As a Software Engineer with experience at leading tech companies, I specialize in building robust, scalable applications that solve real-world problems. My expertise spans full-stack development, from crafting intuitive user interfaces to architecting efficient backend systems. I'm passionate about writing clean, maintainable code and delivering exceptional user experiences.
                                 </p>
-                                <Link className="btn-style-regular btn-border" to="#" ><span>Learn More</span> <i className="fas fa-arrow-right" /></Link>
+                                <Link className="btn-style-regular btn-border" to="/resume" ><span>View Resume</span> <i className="fas fa-arrow-right" /></Link>
                             </div>
                         </div>
                     </div>

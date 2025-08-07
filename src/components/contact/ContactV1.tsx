@@ -53,14 +53,14 @@ const ContactV1 = ({ sectionClass }: DataType) => {
                                     <div className="row">
                                         <div className="col-lg-12">
                                             <div className="form-group comments">
-                                                <textarea className="form-control" id="comments" name="comments" placeholder="Tell Us About Project *" autoComplete='off' required />
+                                                <textarea className="form-control" id="comments" name="comments" placeholder="Tell me about your project *" autoComplete='off' required />
                                             </div>
                                         </div>
                                     </div>
                                     <div className="row">
                                         <div className="col-lg-12">
                                             <button className="btn-style-regular" type="submit" name="submit" id="submit">
-                                                <span>Get in Touch</span> <i className="fas fa-arrow-right" />
+                                                <span>Send Message</span> <i className="fas fa-arrow-right" />
                                             </button>
                                         </div>
                                     </div>

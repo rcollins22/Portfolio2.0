@@ -32,10 +32,10 @@ const FactV1 = () => {
                                 </div>
                                 <div className="fun-fact">
                                     <div className="counter">
-                                        <div className="timer"><CountUp end={80} enableScrollSpy={true} /></div>
+                                        <div className="timer"><CountUp end={95} enableScrollSpy={true} /></div>
                                         <div className="operator">%</div>
                                     </div>
-                                    <span className="medium">Adobe XD</span>
+                                    <span className="medium">JavaScript</span>
                                 </div>
                             </div>
                         </ReactWOW>
@@ -48,10 +48,10 @@ const FactV1 = () => {
                                 </div>
                                 <div className="fun-fact">
                                     <div className="counter">
-                                        <div className="timer"><CountUp end={90} enableScrollSpy={true} /></div>
+                                        <div className="timer"><CountUp end={88} enableScrollSpy={true} /></div>
                                         <div className="operator">%</div>
                                     </div>
-                                    <span className="medium">Figma</span>
+                                    <span className="medium">React</span>
                                 </div>
                             </div>
                         </ReactWOW>
@@ -64,10 +64,10 @@ const FactV1 = () => {
                                 </div>
                                 <div className="fun-fact">
                                     <div className="counter">
-                                        <div className="timer"><CountUp end={70} enableScrollSpy={true} /></div>
+                                        <div className="timer"><CountUp end={85} enableScrollSpy={true} /></div>
                                         <div className="operator">%</div>
                                     </div>
-                                    <span className="medium">WordPress</span>
+                                    <span className="medium">Node.js</span>
                                 </div>
                             </div>
                         </ReactWOW>
@@ -80,10 +80,10 @@ const FactV1 = () => {
                                 </div>
                                 <div className="fun-fact">
                                     <div className="counter">
-                                        <div className="timer"><CountUp end={80} enableScrollSpy={true} /></div>
+                                        <div className="timer"><CountUp end={92} enableScrollSpy={true} /></div>
                                         <div className="operator">%</div>
                                     </div>
-                                    <span className="medium">Photoshop</span>
+                                    <span className="medium">TypeScript</span>
                                 </div>
                             </div>
                         </ReactWOW>
@@ -96,10 +96,10 @@ const FactV1 = () => {
                                 </div>
                                 <div className="fun-fact">
                                     <div className="counter">
-                                        <div className="timer"><CountUp end={60} enableScrollSpy={true} /></div>
+                                        <div className="timer"><CountUp end={78} enableScrollSpy={true} /></div>
                                         <div className="operator">%</div>
                                     </div>
-                                    <span className="medium">Sketch</span>
+                                    <span className="medium">Python</span>
                                 </div>
                             </div>
                         </ReactWOW>
@@ -112,10 +112,10 @@ const FactV1 = () => {
                                 </div>
                                 <div className="fun-fact">
                                     <div className="counter">
-                                        <div className="timer"><CountUp end={90} enableScrollSpy={true} /></div>
+                                        <div className="timer"><CountUp end={82} enableScrollSpy={true} /></div>
                                         <div className="operator">%</div>
                                     </div>
-                                    <span className="medium">Illustrator</span>
+                                    <span className="medium">UI/UX Design</span>
                                 </div>
                             </div>
                         </ReactWOW>

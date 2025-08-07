@@ -75,15 +75,12 @@ const TestimonialV2 = ({ sectionClass }: DataType) => {
                                                             </div>
                                                         </div>
                                                         <p>
-                                                            {`"Thanks to your web agency team for their professional work. The
-                                                            website they created for my business exceeded my expectations, and
-                                                            my clients have given positive feedback about its design and
-                                                            user-friendliness."`}
+                                                            {`"Rashad delivered an exceptional web application that transformed our business operations. His technical expertise and attention to detail resulted in a solution that exceeded our expectations and significantly improved our workflow efficiency."`}
                                                         </p>
                                                         <div className="tm-footer">
                                                             <div className="provider">
-                                                                <h4>Brooklyn Simmons</h4>
-                                                                <span>UI/UX DESIGNER</span>
+                                                                <h4>Sarah Johnson</h4>
+                                                                <span>PRODUCT MANAGER</span>
                                                             </div>
                                                             <span>01</span>
                                                         </div>
@@ -117,15 +114,12 @@ const TestimonialV2 = ({ sectionClass }: DataType) => {
                                                             </div>
                                                         </div>
                                                         <p>
-                                                            {`"Thanks to your web agency team for their professional work. The
-                                                            website they created for my business exceeded my expectations, and
-                                                            my clients have given positive feedback about its design and
-                                                            user-friendliness."`}
+                                                            {`"Working with Rashad was a game-changer for our startup. His full-stack development skills and problem-solving approach helped us launch our MVP ahead of schedule. The code quality and architecture decisions have proven invaluable as we scale."`}
                                                         </p>
                                                         <div className="tm-footer">
                                                             <div className="provider">
-                                                                <h4>Brooklyn Simmons</h4>
-                                                                <span>UI/UX DESIGNER</span>
+                                                                <h4>Michael Chen</h4>
+                                                                <span>STARTUP FOUNDER</span>
                                                             </div>
                                                             <span>02</span>
                                                         </div>
@@ -159,15 +153,12 @@ const TestimonialV2 = ({ sectionClass }: DataType) => {
                                                             </div>
                                                         </div>
                                                         <p>
-                                                            {`"Thanks to your web agency team for their professional work. The
-                                                            website they created for my business exceeded my expectations, and
-                                                            my clients have given positive feedback about its design and
-                                                            user-friendliness."`}
+                                                            {`"Rashad's expertise in both frontend and backend development made him the perfect choice for our complex project. His ability to translate business requirements into elegant technical solutions is truly impressive."`}
                                                         </p>
                                                         <div className="tm-footer">
                                                             <div className="provider">
-                                                                <h4>Brooklyn Simmons</h4>
-                                                                <span>UI/UX DESIGNER</span>
+                                                                <h4>Emily Rodriguez</h4>
+                                                                <span>TECH LEAD</span>
                                                             </div>
                                                             <span>03</span>
                                                         </div>

@@ -3,18 +3,18 @@
         "id": 1,
         "activeClass": "",
         "icon": "1.png",
-        "title": "Digital Marketing",
-        "text": "Continue indulged speaking the was horrible for domestic position. Seeing get rather.",
-        "btnText": "Read More",
+        "title": "Full Stack Development",
+        "text": "Building end-to-end web applications with modern technologies, from responsive frontends to scalable backend systems.",
+        "btnText": "Learn More",
         "delay": "100ms"
     },
     {
         "id": 2,
         "activeClass": "active",
         "icon": "2.png",
-        "title": "App Development",
-        "text": "Continue indulged speaking the was horrible for domestic position. Seeing get rather.",
-        "btnText": "Read More",
+        "title": "React Development",
+        "text": "Creating dynamic, interactive user interfaces with React, Redux, and modern JavaScript frameworks.",
+        "btnText": "Learn More",
         "delay": "200ms"
     },
     {
@@ -22,17 +22,17 @@
         "activeClass": "",
         "icon": "3.png",
         "title": "UI/UX Design",
-        "text": "Continue indulged speaking the was horrible for domestic position. Seeing get rather.",
-        "btnText": "Read More",
+        "text": "Designing intuitive user experiences with focus on usability, accessibility, and modern design principles.",
+        "btnText": "Learn More",
         "delay": "400ms"
     },
     {
         "id": 4,
         "activeClass": "",
         "icon": "4.png",
-        "title": "Web Design",
-        "text": "Continue indulged speaking the was horrible for domestic position. Seeing get rather.",
-        "btnText": "Read More",
+        "title": "System Architecture",
+        "text": "Designing scalable software architectures and implementing efficient database solutions for complex applications.",
+        "btnText": "Learn More",
         "delay": "600ms"
     }
 ]

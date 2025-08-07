@@ -3,42 +3,42 @@
         "id": 1,
         "thumb": "1.jpg",
         "thumbFull": "1-full.jpg",
-        "tags": ["Web", "Coding"],
-        "title": "Document manager application"
+        "tags": ["React", "TypeScript"],
+        "title": "E-commerce Platform with Real-time Analytics"
     },
     {
         "id": 2,
         "thumb": "2.jpg",
         "thumbFull": "2-full.jpg",
-        "tags": ["Software", "Mobile"],
-        "title": "Dynamic mobile app development"
+        "tags": ["Node.js", "MongoDB"],
+        "title": "Task Management API with Authentication"
     },
     {
         "id": 3,
         "thumb": "3.jpg",
         "thumbFull": "3-full.jpg",
-        "tags": ["Brochure", "Design"],
-        "title": "Printable professional brochure templates"
+        "tags": ["UI/UX", "Figma"],
+        "title": "Mobile-First Design System"
     },
     {
         "id": 4,
         "thumb": "6.jpg",
         "thumbFull": "6-full.jpg",
-        "tags": ["Brand", "Mockup"],
-        "title": "Create stunning product flexible mockups"
+        "tags": ["Vue.js", "Firebase"],
+        "title": "Real-time Collaboration Tool"
     },
     {
         "id": 5,
         "thumb": "5.jpg",
         "thumbFull": "5-full.jpg",
-        "tags": ["Design", "Art"],
-        "title": "Decor design vectors illustrations"
+        "tags": ["Python", "Django"],
+        "title": "Data Visualization Dashboard"
     },
     {
         "id": 6,
         "thumb": "4.jpg",
         "thumbFull": "4-full.jpg",
-        "tags": ["Music", "Video"],
-        "title": "Making smart software smartphones"
+        "tags": ["React Native", "Mobile"],
+        "title": "Cross-platform Mobile Application"
     }
 ]
