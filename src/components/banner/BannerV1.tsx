@@ -7,12 +7,6 @@ import { ReactTyped } from 'react-typed';
 
 const BannerV1 = () => {
 
-    const textLines = [
-        '<b className="">Web Developer</b>',
-        '<b className="">UI/UX Designer</b>',
-        '<b className="">Professional Dev</b>'
-    ]
-
     return (
         <>
             <div className="banner-style-one-area bg-gray">
@@ -30,7 +24,7 @@ const BannerV1 = () => {
                                                         strings={[
                                                             '<b className="">Software Engineer</b>',
                                                             '<b className="">Full Stack Developer</b>',
-                                                            '<b className="">UI/UX Designer</b>'
+                                                            '<b className="">Blockchain Architect</b>'
                                                         ]} typeSpeed={35} backSpeed={35} backDelay={2000} loop>
                                                     </ReactTyped>
                                                 </span>
@@ -38,7 +32,7 @@ const BannerV1 = () => {
                                         </span>
                                     </h2>
                                     <p>
-                                        Software Engineer with proven experience building scalable web applications and intuitive user interfaces. Currently leading development initiatives at Blockdots, with a strong foundation in modern JavaScript frameworks, responsive design, and full-stack development.
+                                    Software Engineer passionate about building scalable web applications and clean, intuitive user experiences. Actively developing personal and open-source projects at the intersection of AI and blockchain, with a solid foundation in modern JavaScript frameworks, responsive design, and full-stack architecture.
                                     </p>
                                     <div className="flex-social mt-40">
                                         <div className="button">
