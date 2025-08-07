@@ -13,6 +13,7 @@ import '../src/assets/css/validnavs.css';
 import '../src/assets/css/helper.css';
 import '../src/assets/css/unit-test.css';
 import '../src/assets/css/style.css';
+import '../src/assets/css/theme-toggle.css';
 
 import Routers from './Routers';
 import { ToastContainer } from 'react-toastify';

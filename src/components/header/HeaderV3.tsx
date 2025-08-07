@@ -5,6 +5,7 @@ import useSidebarMenu from "../../hooks/useSidebarMenu";
 import useStickyMenu from "../../hooks/useStickyMenu";
 import useSubMenuToggle from "../../hooks/useSubMenuToggle";
 import ScrollContact from "./ScrollContact";
+import ThemeToggle from "./ThemeToggle";
 
 const HeaderV3 = () => {
 
@@ -40,13 +41,7 @@ const HeaderV3 = () => {
                                 <i className="fa fa-times" />
                             </button>
                             <ul className="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
-                                <li className="dropdown">
-                                    <Link to="#" className="dropdown-toggle active" data-toggle="dropdown" onClick={toggleSubMenu}>Home</Link>
-                                    <ul className="dropdown-menu">
-                                        <li><Link to="/">Home Version Light</Link></li>
-                                        <li><Link to="/home-dark">Home Version Dark</Link></li>
-                                    </ul>
-                                </li>
+                                <ThemeToggle />
                                 <ScrollMenu closeMenu={closeMenu} />
                             </ul>
                         </div>

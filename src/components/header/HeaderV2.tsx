@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import useSidebarMenu from "../../hooks/useSidebarMenu";
 import useStickyMenu from "../../hooks/useStickyMenu";
 import useSubMenuToggle from "../../hooks/useSubMenuToggle";
+import ThemeToggle from "./ThemeToggle";
 
 const HeaderV2 = () => {
 
@@ -38,27 +39,15 @@ const HeaderV2 = () => {
                                 <i className="fa fa-times" />
                             </button>
                             <ul className="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
-                                <li className="dropdown">
-                                    <Link to="#" className="dropdown-toggle active" data-toggle="dropdown" onClick={toggleSubMenu}>Home</Link>
-                                    <ul className="dropdown-menu">
-                                        <li><Link to="/">Home Version Light</Link></li>
-                                        <li><Link to="/home-dark">Home Version Dark</Link></li>
-                                    </ul>
-                                </li>
+                                <ThemeToggle />
                                 <li>
-                                    <Link className="smooth-menu" to="/service">Services</Link>
+                                    <Link className="smooth-menu" to="/service">Skills</Link>
                                 </li>
                                 <li>
                                     <Link className="smooth-menu" to="/projects">Portfolio</Link>
                                 </li>
                                 <li>
                                     <Link className="smooth-menu" to="/resume">Resume</Link>
-                                </li>
-                                <li>
-                                    <Link className="smooth-menu" to="/pricing">Pricing</Link>
-                                </li>
-                                <li>
-                                    <Link className="smooth-menu" to="/contact">Contact</Link>
                                 </li>
                             </ul>
                         </div>
