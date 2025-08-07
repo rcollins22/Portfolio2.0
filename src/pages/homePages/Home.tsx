@@ -20,7 +20,6 @@ const Home = () => {
                 <PortfolioV1 sectionClass="bg-gray default-padding" hasTitle={true} />
                 <FactV1 />
                 <ResumeV1 sectionClass="bg-gray default-padding" />
-                <PartnerV1 />
                 <ContactV1 sectionClass="bg-gray default-padding" />
                 <BlogV1 />
                 <PromoV1 />
