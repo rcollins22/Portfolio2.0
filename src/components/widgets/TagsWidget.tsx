@@ -5,7 +5,7 @@ const TagsWidget = () => {
     return (
         <>
             <div className="sidebar-item tags">
-                <h4 className="title">tags</h4>
+                <h4 className="title">Tags</h4>
                 <div className="sidebar-info">
                     <ul>
                         <li><Link to="#" onClick={handleSmoothScroll}>Fashion</Link>

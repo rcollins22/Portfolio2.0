@@ -12,7 +12,7 @@ const FaqV2 = () => {
                             <div className="thumb-style-one">
                                 <img src={about4} alt="Image Not Found" />
                                 <div className="chat-card">
-                                    <p>{`Can't find what your are loking for you?`}</p>
+                                    <p>{`Can't find what you are looking for?`}</p>
                                     <h5>I would like to chat with you</h5>
                                     <Link to="#" ><i className="fab fa-facebook-messenger" /></Link>
                                     <img src={shape12} alt="Image Not Found" />

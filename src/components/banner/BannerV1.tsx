@@ -32,7 +32,7 @@ const BannerV1 = () => {
                                         </span>
                                     </h2>
                                     <p>
-                                    Software Engineer passionate about building scalable web applications and clean, intuitive user experiences. Actively developing personal and open-source projects at the intersection of AI and blockchain, with a solid foundation in modern JavaScript frameworks, responsive design, and full-stack architecture.
+                                        Software Engineer passionate about building scalable web applications and clean, intuitive user experiences. Actively developing personal and open-source projects at the intersection of AI and blockchain, with a solid foundation in modern JavaScript frameworks, responsive design, and full-stack architecture.
                                     </p>
                                     <div className="flex-social mt-40">
                                         <div className="button">

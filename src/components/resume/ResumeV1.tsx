@@ -53,7 +53,7 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                             </div>
                                             <div className="timeline-body">
                                                 <p>
-                                                   Developed a full-stack applicant tracking and placement system for a job recuitment platform using the MERN stack. Integrated RESTful APIs to ensure seamless data flow and responsive UI/UX. Participated in Agile sprints, code reviews, and technical documentation. Contributed to onboarding resources and blog content to support platform adoption and developer engagement.
+                                                   Developed a full-stack applicant tracking and placement system for a job recruitment platform using the MERN stack. Integrated RESTful APIs to ensure seamless data flow and responsive UI/UX. Participated in Agile sprints, code reviews, and technical documentation. Contributed to onboarding resources and blog content to support platform adoption and developer engagement.
                                                 </p>
                                             </div>
                                         </div>
@@ -70,7 +70,7 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                                     </p>
                                                 </div>
                                                 <div className="right">
-                                                    <span>2017 - 2019</span>
+                                                    <span>2018 - 2020</span>
                                                 </div>
                                             </div>
                                             <div className="timeline-body">
@@ -115,7 +115,7 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                         <div className="timeline-style-one-item">
                                             <div className="timeline-header">
                                                 <div className="left">
-                                                    <h4>Blockchain Architecht Certification</h4>
+                                                    <h4>Blockchain Architect Certification</h4>
                                                     <p>
                                                         The Blockchain Counsel
                                                     </p>

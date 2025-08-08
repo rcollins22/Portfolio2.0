@@ -119,7 +119,7 @@ const BlogSingleWithSidebarContent = ({ blogData }: { blogData: DataType }) => {
                                 <div className="blog-comments">
                                     <div className="comments-area">
                                         <div className="comments-title">
-                                            <h3>3 Comments On “Providing Top Quality Cleaning Related Services Charms.”</h3>
+                                            <h3>3 Comments On "Providing Top Quality Cleaning Related Services & Charms."</h3>
                                             <div className="comments-list">
                                                 <div className="comment-item">
                                                     <div className="avatar">
@@ -145,7 +145,7 @@ const BlogSingleWithSidebarContent = ({ blogData }: { blogData: DataType }) => {
                                                             <span>15 Mar, 2022</span>
                                                         </div>
                                                         <p>
-                                                            Delivered ye sportsmen zealously arranging frankness estimable as. Nay any article enabled musical shyness yet sixteen yet blushes. Entire its the did figure wonder off. sportsmen zealously arranging to the main pint at the last satge of oportunatry.
+                                                            Delivered ye sportsmen zealously arranging frankness estimable as. Nay any article enabled musical shyness yet sixteen yet blushes. Entire its the did figure wonder off. sportsmen zealously arranging to the main point at the last stage of opportunity.
                                                         </p>
                                                     </div>
                                                 </div>

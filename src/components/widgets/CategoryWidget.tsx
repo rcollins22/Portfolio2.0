@@ -5,7 +5,7 @@ const CategoryWidget = () => {
     return (
         <>
             <div className="sidebar-item category">
-                <h4 className="title">category list</h4>
+                <h4 className="title">Category List</h4>
                 <div className="sidebar-info">
                     <ul>
                         <li>
