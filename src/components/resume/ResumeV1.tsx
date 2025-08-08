@@ -93,9 +93,9 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                         <div className="timeline-style-one-item">
                                             <div className="timeline-header">
                                                 <div className="left">
-                                                    <h4>Computer Science Degree</h4>
+                                                    <h4>BS. Bio-Medical Engineering</h4>
                                                     <p>
-                                                        University Education
+                                                        East Carolina University
                                                     </p>
                                                 </div>
                                                 <div className="right">
@@ -104,9 +104,7 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                             </div>
                                             <div className="timeline-body">
                                                 <p>
-                                                    Comprehensive study of computer science fundamentals including algorithms, 
-                                                    data structures, software engineering principles, and system design. 
-                                                    Strong foundation in mathematics and problem-solving methodologies.
+                                                   Completed foundational coursework in biomedical systems, engineering mathematics, and applied programming. Built a strong analytical skillset through studies in physiology, biomechanics, and systems modeling, with emphasis on problem-solving, data analysis, and cross-disciplinary engineering principles.
                                                 </p>
                                             </div>
                                         </div>
@@ -117,20 +115,18 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                         <div className="timeline-style-one-item">
                                             <div className="timeline-header">
                                                 <div className="left">
-                                                    <h4>Web Development Certification</h4>
+                                                    <h4>Blockchain Architecht Certification</h4>
                                                     <p>
-                                                        Professional Development
+                                                        The Blockchain Counsel
                                                     </p>
                                                 </div>
                                                 <div className="right">
-                                                    <span>2015 - 2016</span>
+                                                    <span>2020</span>
                                                 </div>
                                             </div>
                                             <div className="timeline-body">
                                                 <p>
-                                                    Intensive training in modern web development technologies and frameworks. 
-                                                    Hands-on experience with HTML5, CSS3, JavaScript, and responsive design principles. 
-                                                    Practical projects focusing on real-world application development.
+                                                    Completed intensive certification in Blockchain Architecture through the Blockchain Council, with in-depth training on distributed ledger technology, consensus algorithms, smart contracts, and system design. Gained hands-on experience designing scalable blockchain networks using Ethereum, Hyperledger Fabric, and related frameworks. Focused on real-world architectural use cases in DeFi, NFTs, and enterprise applications.
                                                 </p>
                                             </div>
                                         </div>
@@ -141,20 +137,18 @@ const ResumeV1 = ({ sectionClass }: DataType) => {
                                         <div className="timeline-style-one-item">
                                             <div className="timeline-header">
                                                 <div className="left">
-                                                    <h4>Design Fundamentals</h4>
+                                                    <h4>Full-Stack Engineer Certification</h4>
                                                     <p>
-                                                        Continuing Education
+                                                        DigitalCrafts
                                                     </p>
                                                 </div>
                                                 <div className="right">
-                                                    <span>2014 - 2015</span>
+                                                    <span>2020</span>
                                                 </div>
                                             </div>
                                             <div className="timeline-body">
                                                 <p>
-                                                    Comprehensive study of design principles, color theory, and user experience fundamentals. 
-                                                    Training in industry-standard design tools and methodologies. 
-                                                    Focus on creating user-centered designs that balance aesthetics with functionality.
+                                                   Completed a 1,500-hour full-time coding bootcamp at DigitalCrafts focused on modern full-stack web development. Gained hands-on experience building responsive applications using the MERN stack (MongoDB, Express, React, Node.js), RESTful APIs, and version control with Git. Developed and deployed multiple real-world projects in an Agile, team-based environment.
                                                 </p>
                                             </div>
                                         </div>
