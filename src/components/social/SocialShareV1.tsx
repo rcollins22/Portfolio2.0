@@ -4,8 +4,8 @@ const SocialShareV1 = () => {
     return (
         <>
             <li>
-                <Link to="https://www.facebook.com" target='_blank'>
-                    <i className="fab fa-facebook" />
+                <Link to="https://www.github.com/rcollins22" target='_blank'>
+                    <i className="fab fa-github" />
                 </Link>
             </li>
             <li>
