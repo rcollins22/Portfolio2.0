@@ -34,15 +34,6 @@ const PortfolioV1 = ({ sectionClass, hasTitle }: DataType) => {
                             <div className="magnific-mix-gallery gallery-masonary">
                                 <IsotopeGallery />
                             </div>
-                            <div className="row">
-                                <div className="col-lg-12 text-center">
-                                    <div className="load-more-info text-center mt-60 mt-xs-30">
-                                        <p>
-                                            Are you interested to show more portfolios? <Link to="#" >Load More</Link>
-                                        </p>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>
