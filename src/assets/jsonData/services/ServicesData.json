@@ -21,8 +21,8 @@
         "id": 3,
         "activeClass": "",
         "icon": "3.png",
-        "title": "UI/UX Design",
-        "text": "Designing intuitive user experiences with focus on usability, accessibility, and modern design principles.",
+        "title": "AI & Machine Learning Development",
+        "text": "Leveraging artificial intelligence and machine learning algorithms to create data-driven applications and automating processes.",
         "btnText": "Learn More",
         "delay": "400ms"
     },
