@@ -30,8 +30,8 @@
         "id": 4,
         "activeClass": "",
         "icon": "4.png",
-        "title": "Blockchain Architecture",
-        "text": "Designing scalable software architectures and implementing efficient database solutions for complex applications.",
+        "title": "Front-End Development",
+        "text": "Creating intuitive, user-friendly web interfaces using modern frameworks and technologies, optimizing for performance and accessibility across platforms",
         "btnText": "Learn More",
         "delay": "600ms"
     }
