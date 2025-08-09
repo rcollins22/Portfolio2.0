@@ -9,7 +9,7 @@ const SocialShareV1 = () => {
                 </Link>
             </li>
             <li>
-                <Link to="https://www.linkedin.com" target='_blank'>
+                <Link to="https://www.linkedin.com/in/rashad-codes" target='_blank'>
                     <i className="fab fa-linkedin-in" />
                 </Link>
             </li>
