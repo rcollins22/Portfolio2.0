@@ -12,8 +12,8 @@
         "id": 2,
         "activeClass": "active",
         "icon": "2.png",
-        "title": "React Development",
-        "text": "Creating dynamic, interactive user interfaces with React, Redux, and modern JavaScript frameworks.",
+        "title": "Blockchain Architecture",
+        "text": "Designing and implementing decentralized systems using blockchain technology, ensuring secure, transparent, and efficient peer-to-peer transactions through smart contracts and distributed ledgers.",
         "btnText": "Learn More",
         "delay": "200ms"
     },
@@ -30,7 +30,7 @@
         "id": 4,
         "activeClass": "",
         "icon": "4.png",
-        "title": "System Architecture",
+        "title": "Blockchain Architecture",
         "text": "Designing scalable software architectures and implementing efficient database solutions for complex applications.",
         "btnText": "Learn More",
         "delay": "600ms"
