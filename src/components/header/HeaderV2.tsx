@@ -39,7 +39,6 @@ const HeaderV2 = () => {
                                 <i className="fa fa-times" />
                             </button>
                             <ul className="nav navbar-nav navbar-right" data-in="fadeInDown" data-out="fadeOutUp">
-                                <ThemeToggle />
                                 <li>
                                     <Link className="smooth-menu" to="/service">Skills</Link>
                                 </li>
@@ -57,9 +56,6 @@ const HeaderV2 = () => {
                                     <ul>
                                         <li className="button">
                                             <Link className="smooth-menu" to="/contact">{`Let's Talk`} <i className="fas fa-comment-alt" /></Link>
-                                        </li>
-                                        <li className="theme-toggle-wrapper">
-                                            <ThemeToggle />
                                         </li>
                                     </ul>
                                 </div>

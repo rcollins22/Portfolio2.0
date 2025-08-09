@@ -49,9 +49,6 @@ const HeaderV3 = () => {
                                 <div className="attr-nav attr-box">
                                     <ul>
                                         <ScrollContact closeMenu={closeMenu} />
-                                        <li className="theme-toggle-wrapper">
-                                            <ThemeToggle />
-                                        </li>
                                     </ul>
                                 </div>
                             </div>
