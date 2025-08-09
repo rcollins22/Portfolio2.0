@@ -13,7 +13,7 @@
         "activeClass": "active",
         "icon": "2.png",
         "title": "Blockchain Architecture",
-        "text": "Designing and implementing decentralized systems using blockchain technology, ensuring secure, transparent, and efficient peer-to-peer transactions through smart contracts and distributed ledgers.",
+        "text": "Designing and implementing decentralized systems using blockchain technology, ensuring secure and efficient transactions through smart contracts and distributed ledgers.",
         "btnText": "Learn More",
         "delay": "200ms"
     },
