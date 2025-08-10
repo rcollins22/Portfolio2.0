@@ -77,7 +77,6 @@ const AboutV1 = () => {
                                 <p>
                                     As a Software Engineer with experience at leading tech companies, I specialize in building robust, scalable applications that solve real-world problems. My expertise spans full-stack development, from crafting intuitive user interfaces to architecting efficient backend systems. I'm passionate about writing clean, maintainable code and delivering exceptional user experiences.
                                 </p>
-                                <Link className="btn-style-regular btn-border" to="/resume" ><span>View Resume</span> <i className="fas fa-arrow-right" /></Link>
                             </div>
                         </div>
                     </div>
