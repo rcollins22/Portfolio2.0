@@ -45,9 +45,6 @@ const ServicesV1 = ({ sectionClass, hasTitle }: DataType) => {
                                         <img src={`/assets/img/icon/${service.icon}`} alt="Image Not Found" />
                                         <h4><Link to="/services-details">{service.title}</Link></h4>
                                         <p>{service.text}</p>
-                                        <Link to="/services-details" className="btn-style-four">
-                                            <div className="icon"><img src={arrow} alt="Image Not Found" /></div> Read More
-                                        </Link>
                                     </div>
                                 </ReactWOW>
                             </div>
