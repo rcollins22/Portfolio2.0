@@ -71,19 +71,6 @@ const AboutV1 = () => {
                                     <span className="medium">Projects Delivered</span>
                                 </div>
                             </div>
-                            <div className="clieents-list mt-40">
-                                <div className="d-flex">
-                                    <div className="thumb">
-                                        <img src={team14} alt="Image Not Found" />
-                                        <img src={team15} alt="Image Not Found" />
-                                        <img src={team16} alt="Image Not Found" />
-                                        <img src={team17} alt="Image Not Found" />
-                                    </div>
-                                    <div className="info">
-                                        <h5>Happy Clients</h5>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                         <div className="col-lg-7 pl-80 pl-md-15 pl-xs-15">
                             <div className="about-style-one-info">
