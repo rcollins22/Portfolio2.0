@@ -16,9 +16,9 @@ const Home = () => {
                 <BannerV1 />
                 <AboutV1 />
                 <ServicesV1 sectionClass="default-padding" hasTitle={true} />
+                <ResumeV1 sectionClass="bg-gray default-padding" />
                 <PortfolioV1 sectionClass="bg-gray default-padding" hasTitle={true} />
                 <FactV1 />
-                <ResumeV1 sectionClass="bg-gray default-padding" />
                 <BlogV1 />
                 <ContactV1 sectionClass="bg-gray default-padding" />
             </LayoutV1>
