@@ -22,7 +22,6 @@ const Home = () => {
                 <ResumeV1 sectionClass="bg-gray default-padding" />
                 <ContactV1 sectionClass="bg-gray default-padding" />
                 <BlogV1 />
-                <PromoV1 />
             </LayoutV1>
         </>
     );
