@@ -115,7 +115,7 @@ const FactV1 = () => {
                                         <div className="timer"><CountUp end={82} enableScrollSpy={true} /></div>
                                         <div className="operator">%</div>
                                     </div>
-                                    <span className="medium">UI/UX Design</span>
+                                    <span className="medium">Solidity</span>
                                 </div>
                             </div>
                         </ReactWOW>
