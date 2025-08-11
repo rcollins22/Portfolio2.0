@@ -20,6 +20,7 @@ const Home = () => {
                 <FactV1 />
                 <ResumeV1 sectionClass="bg-gray default-padding" />
                 <BlogV1 />
+                <ContactV1 sectionClass="bg-gray default-padding" />
             </LayoutV1>
         </>
     );
