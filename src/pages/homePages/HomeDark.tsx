@@ -7,7 +7,6 @@ import FactV1 from "../../components/fact/FactV1";
 import LayoutV3 from "../../components/Layouts/LayoutV3";
 import PartnerV2 from "../../components/partner/PartnerV2";
 import PortfolioV1 from "../../components/portfolio/PortfolioV1";
-import PromoV1 from "../../components/promo/PromoV1";
 import ResumeV1 from "../../components/resume/ResumeV1";
 import ServicesV1 from "../../components/services/ServicesV1";
 
@@ -23,7 +22,6 @@ const HomeDark = () => {
                 <ResumeV1 sectionClass="bg-gray default-padding" />
                 <ContactV1 sectionClass="bg-gray default-padding" />
                 <BlogV1 />
-                <PromoV1 />
                 <BodyDark />
             </LayoutV3>
         </>
