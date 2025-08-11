@@ -54,6 +54,7 @@ const HeaderV2 = () => {
                             <div className="attr-right">
                                 <div className="attr-nav attr-box">
                                     <ul>
+                                        <ThemeToggle />
                                         <li className="button">
                                             <Link className="smooth-menu" to="/contact">{`Let's Talk`} <i className="fas fa-comment-alt" /></Link>
                                         </li>

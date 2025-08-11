@@ -1665,6 +1665,54 @@ a.button-regular:hover i::after {
 		color: var(--white);
 	}
 
+	/* Theme Toggle Styles */
+	.theme-toggle {
+		margin-right: 15px;
+	}
+
+	.theme-toggle-btn {
+		background: transparent;
+		border: 2px solid #e7e7e7;
+		border-radius: 50%;
+		width: 45px;
+		height: 45px;
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		cursor: pointer;
+		transition: all 0.3s ease;
+		color: var(--color-heading);
+		font-size: 16px;
+	}
+
+	.theme-toggle-btn:hover {
+		border-color: var(--color-primary);
+		color: var(--color-primary);
+		transform: scale(1.05);
+	}
+
+	.bg-dark .theme-toggle-btn {
+		border-color: rgba(255, 255, 255, 0.3);
+		color: var(--white);
+	}
+
+	.bg-dark .theme-toggle-btn:hover {
+		border-color: var(--color-primary);
+		color: var(--color-primary);
+	}
+
+	@media (max-width: 767px) {
+		.theme-toggle {
+			margin-right: 10px;
+		}
+		
+		.theme-toggle-btn {
+			width: 40px;
+			height: 40px;
+			font-size: 14px;
+		}
+	}
+
 	.post-pagi-area>div:nth-child(2) a {
 		justify-content: center;
 	}

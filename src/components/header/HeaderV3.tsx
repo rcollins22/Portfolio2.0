@@ -48,6 +48,7 @@ const HeaderV3 = () => {
                             <div className="attr-right">
                                 <div className="attr-nav attr-box">
                                     <ul>
+                                        <ThemeToggle />
                                         <ScrollContact closeMenu={closeMenu} />
                                     </ul>
                                 </div>
