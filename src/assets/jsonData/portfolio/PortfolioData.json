@@ -4,41 +4,47 @@
         "thumb": "budd.png",
         "thumbFull": "1-full.jpg",
         "tags": ["React", "API"],
-        "title": "Stripe Based Expense Management Dashboard"
+        "title": "Stripe Based Expense Management Dashboard",
+        "github": "https://github.com/rcollins22"
     },
     {
         "id": 2,
         "thumb": "PokeChain.png",
         "thumbFull": "2-full.jpg",
         "tags": ["Solana", "MongoDB","LLM", "React"],
-        "title": "AI-Driven Pokémon NFT Battle & Trading Ecosystem"
+        "title": "AI-Driven Pokémon NFT Battle & Trading Ecosystem",
+        "github": "https://github.com/rcollins22/PokeChain"
     },
     {
         "id": 3,
         "thumb": "scam.png",
         "thumbFull": "3-full.jpg",
         "tags": ["React", "Ethereum, Solana"],
-        "title": "Smart Contract Risk Analysis Tool"
+        "title": "Smart Contract Risk Analysis Tool",
+        "github": "https://github.com/rcollins22/RugChekr"
     },
     {
         "id": 4,
         "thumb": "audex.png",
         "thumbFull": "6-full.jpg",
         "tags": ["Hyperledger"],
-        "title": "Decentralized Vehicle History Reporting System"
+        "title": "Decentralized Vehicle History Reporting System",
+        "github": "https://www.newsfilecorp.com/release/132292/Rashad-Collins-and-Ed-Voyles-Launch-Their-USBased-Company-AutoDex"
     },
     {
         "id": 5,
         "thumb": "udgd.png",
         "thumbFull": "5-full.jpg",
         "tags": ["React", "Node.js", "API"],
-        "title": "Spotify Music Discovery Platform"
+        "title": "Spotify Music Discovery Platform",
+        "github": "https://github.com/rcollins22/UNDRGRND"
     },
     {
         "id": 6,
         "thumb": "BlockBox.png",
         "thumbFull": "4-full.jpg",
         "tags": ["React", "Solidity","web3.js"],
-        "title": "Decentralized File Storage & Sharing Platform"
+        "title": "Decentralized File Storage & Sharing Platform",
+        "github": "https://github.com/rcollins22/bLockBox"
     }
 ]
