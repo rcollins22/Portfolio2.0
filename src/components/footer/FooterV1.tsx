@@ -16,7 +16,6 @@ const FooterV1 = () => {
                                     <li><Link to="/projects/2">Portfolio</Link></li>
                                     <li><Link to="/blog-with-sidebar">Blog</Link></li>
                                 </ul>
-                                <p>Copyright  &copy; {(new Date().getFullYear())} Antux. All Rights Reserved</p>
                             </div>
                         </div>
                     </div>
