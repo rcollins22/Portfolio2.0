@@ -1,17 +1,17 @@
 [
     {
         "id": 1,
-        "thumb": "1.jpg",
+        "thumb": "budd.png",
         "thumbFull": "1-full.jpg",
-        "tags": ["React", "TypeScript"],
+        "tags": ["React", "API"],
         "title": "E-commerce Platform with Real-time Analytics"
     },
     {
         "id": 2,
-        "thumb": "2.jpg",
+        "thumb": "PokeChain.png",
         "thumbFull": "2-full.jpg",
-        "tags": ["Node.js", "MongoDB"],
-        "title": "Task Management API with Authentication"
+        "tags": ["Blockain", "MongoDB","LLM"],
+        "title": "AI-Driven Pokémon NFT Battle & Trading Ecosystem"
     },
     {
         "id": 3,
