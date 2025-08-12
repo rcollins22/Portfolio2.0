@@ -1,4 +1,4 @@
-import logo from "/assets/img/logo.png"
+import logo from "/assets/img/light-logo-2.png"
 import { Link } from "react-router-dom";
 import useSidebarMenu from "../../hooks/useSidebarMenu";
 import useStickyMenu from "../../hooks/useStickyMenu";
