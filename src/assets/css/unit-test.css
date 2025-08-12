@@ -1674,15 +1674,15 @@ a.button-regular:hover i::after {
 		background: transparent;
 		border: 2px solid #e7e7e7;
 		border-radius: 50%;
-		width: 45px;
-		height: 45px;
+		width: 35px;
+		height: 35px;
 		display: flex;
 		align-items: center;
 		justify-content: center;
 		cursor: pointer;
 		transition: all 0.3s ease;
 		color: var(--color-heading);
-		font-size: 16px;
+		font-size: 14px;
 	}
 
 	.theme-toggle-btn:hover {
@@ -1707,9 +1707,9 @@ a.button-regular:hover i::after {
 		}
 		
 		.theme-toggle-btn {
-			width: 40px;
-			height: 40px;
-			font-size: 14px;
+			width: 30px;
+			height: 30px;
+			font-size: 12px;
 		}
 	}
 
