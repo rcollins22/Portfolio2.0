@@ -4,41 +4,41 @@
         "thumb": "budd.png",
         "thumbFull": "1-full.jpg",
         "tags": ["React", "API"],
-        "title": "E-commerce Platform with Real-time Analytics"
+        "title": "Stripe Based Expense Management Dashboard"
     },
     {
         "id": 2,
         "thumb": "PokeChain.png",
         "thumbFull": "2-full.jpg",
-        "tags": ["Blockain", "MongoDB","LLM"],
+        "tags": ["Solana", "MongoDB","LLM", "React"],
         "title": "AI-Driven Pokémon NFT Battle & Trading Ecosystem"
     },
     {
         "id": 3,
-        "thumb": "3.jpg",
+        "thumb": "scam.png",
         "thumbFull": "3-full.jpg",
-        "tags": ["UI/UX", "Figma"],
-        "title": "Mobile-First Design System"
+        "tags": ["React", "Ethereum, Solana"],
+        "title": "Smart Contract Risk Analysis Tool"
     },
     {
         "id": 4,
-        "thumb": "6.jpg",
+        "thumb": "audex.png",
         "thumbFull": "6-full.jpg",
-        "tags": ["Vue.js", "Firebase"],
-        "title": "Real-time Collaboration Tool"
+        "tags": ["Hyperledger"],
+        "title": "Decentralized Vehicle History Reporting System"
     },
     {
         "id": 5,
-        "thumb": "5.jpg",
+        "thumb": "udgd.png",
         "thumbFull": "5-full.jpg",
-        "tags": ["Python", "Django"],
-        "title": "Data Visualization Dashboard"
+        "tags": ["React", "Node.js", "API"],
+        "title": "Spotify Music Discovery Platform"
     },
     {
         "id": 6,
-        "thumb": "4.jpg",
+        "thumb": "BlockBox.png",
         "thumbFull": "4-full.jpg",
-        "tags": ["React Native", "Mobile"],
-        "title": "Cross-platform Mobile Application"
+        "tags": ["React", "Solidity","web3.js"],
+        "title": "Decentralized File Storage & Sharing Platform"
     }
 ]
