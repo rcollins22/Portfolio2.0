@@ -21,7 +21,7 @@ const PortfolioV1 = ({ sectionClass, hasTitle }: DataType) => {
                             <div className="col-lg-8 offset-lg-2">
                                 <div className="site-heading text-center">
                                     <h4 className="sub-title">Portfolio</h4>
-                                    <h2 className="title">My Recent Work</h2>
+                                    <h2 className="title">What I'm Working On</h2>
                                 </div>
                             </div>
                         </div>
