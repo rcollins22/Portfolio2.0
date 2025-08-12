@@ -1,4 +1,4 @@
-import FooterV1 from '../footer/FooterV1';
+import FooterV2 from '../footer/FooterV2';
 import HeaderV3 from '../header/HeaderV3';
 
 interface LayoutProps {
@@ -10,7 +10,7 @@ const LayoutV3 = ({ children }: LayoutProps) => {
         <>
             <HeaderV3 />
             {children}
-            <FooterV1 />
+            <FooterV2 />
         </>
     );
 };
