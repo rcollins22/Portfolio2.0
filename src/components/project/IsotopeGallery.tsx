@@ -49,10 +49,10 @@ const IsotopeGallery = () => {
                                         </ul>
                                     </div>
                                     <div className="icon">
-                                        <Link to={`/project-details/${portfolio.id}`}><i className="fas fa-long-arrow-right" /></Link>
+                                        <a href={portfolio.github} target="_blank" rel="noopener noreferrer"><i className="fas fa-long-arrow-right" /></a>
                                     </div>
                                 </div>
-                                <h4><Link to={`/project-details/${portfolio.id}`}>{portfolio.title}</Link></h4>
+                                <h4><a href={portfolio.github} target="_blank" rel="noopener noreferrer">{portfolio.title}</a></h4>
                             </div>
                         </div>
                     </div>
