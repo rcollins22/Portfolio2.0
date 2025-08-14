@@ -19,7 +19,7 @@
         "id": 3,
         "thumb": "scam.png",
         "thumbFull": "3-full.jpg",
-        "tags": ["React", "Ethereum, Solana"],
+        "tags": ["React", "Ethereum", "Solana"],
         "title": "Smart Contract Risk Analysis Tool",
         "github": "https://github.com/rcollins22/RugChekr"
     },
