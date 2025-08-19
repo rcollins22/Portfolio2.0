@@ -1701,6 +1701,70 @@ a.button-regular:hover i::after {
 		color: var(--color-primary);
 	}
 
+	/* Dark mode sidebar styling */
+	.bg-dark .sidebar .sidebar-item {
+		background: #1a1a1a;
+		border: 1px solid #333;
+	}
+
+	.bg-dark .sidebar .sidebar-item .title {
+		color: #ffffff;
+	}
+
+	.bg-dark .sidebar .sidebar-item .title::after {
+		border-bottom-color: var(--color-primary);
+	}
+
+	.bg-dark .sidebar input[type="text"] {
+		background: #2a2a2a;
+		border-color: #444;
+		color: #ffffff;
+	}
+
+	.bg-dark .sidebar input[type="text"]::placeholder {
+		color: #999;
+	}
+
+	.bg-dark .sidebar button[type="submit"] {
+		background: var(--bg-gradient);
+	}
+
+	.bg-dark .sidebar .sidebar-item.category li a {
+		color: #cccccc;
+	}
+
+	.bg-dark .sidebar .sidebar-item.category li a:hover {
+		color: var(--color-primary);
+	}
+
+	.bg-dark .sidebar .sidebar-item.category li a span {
+		background: #333;
+		color: #ffffff;
+	}
+
+	.bg-dark .sidebar .sidebar-item.recent-post li a {
+		color: #ffffff;
+	}
+
+	.bg-dark .sidebar .sidebar-item.recent-post li a:hover {
+		color: var(--color-primary);
+	}
+
+	.bg-dark .sidebar .sidebar-item.recent-post li span {
+		color: #999;
+	}
+
+	.bg-dark .sidebar .sidebar-item.tags ul li a {
+		background: #2a2a2a;
+		border-color: #444;
+		color: #cccccc;
+	}
+
+	.bg-dark .sidebar .sidebar-item.tags ul li a:hover {
+		color: var(--color-primary);
+		background: #333;
+	}
+
 	@media (max-width: 767px) {
 		.theme-toggle {
 			margin-right: 10px;

@@ -1,9 +1,6 @@
 import SearchWidget from '../widgets/SearchWidget';
 import RecentPostsWidget from '../widgets/RecentPostsWidget';
 import CategoryWidget from '../widgets/CategoryWidget';
-import GalleryWidget from '../widgets/GalleryWidget';
-import ArchiveWidget from '../widgets/ArchiveWidget';
-import FollowWidget from '../widgets/FollowWidget';
 import TagsWidget from '../widgets/TagsWidget';
 import BlogForm from '../form/BlogForm';
 import { Link } from "react-router-dom";
@@ -166,9 +163,6 @@ const BlogSingleWithSidebarContent = ({ blogData }: { blogData: DataType }) => {
                                     <SearchWidget />
                                     <RecentPostsWidget />
                                     <CategoryWidget />
-                                    <GalleryWidget />
-                                    <ArchiveWidget />
-                                    <FollowWidget />
                                     <TagsWidget />
                                 </aside>
                             </div>
