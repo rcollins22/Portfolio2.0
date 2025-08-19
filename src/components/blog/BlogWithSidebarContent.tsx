@@ -38,9 +38,6 @@ const BlogWithSidebarContent = () => {
                                     <SearchWidget />
                                     <RecentPostsWidget />
                                     <CategoryWidget />
-                                    <GalleryWidget />
-                                    <ArchiveWidget />
-                                    <FollowWidget />
                                     <TagsWidget />
                                 </aside>
                             </div>
