@@ -1,5 +1,4 @@
 import PromoV1 from '../promo/PromoV1';
-import SearchWidget from '../widgets/SearchWidget';
 import RecentPostsWidget from '../widgets/RecentPostsWidget';
 import GalleryWidget from '../widgets/GalleryWidget';
 import ArchiveWidget from '../widgets/ArchiveWidget';
@@ -35,7 +34,6 @@ const BlogWithSidebarContent = () => {
                             {/* Sidebar */}
                             <div className="sidebar col-xl-4 col-lg-5 col-md-12 mt-md-50 mt-xs-50">
                                 <aside>
-                                    <SearchWidget />
                                     <RecentPostsWidget />
                                     <CategoryWidget />
                                     <TagsWidget />
