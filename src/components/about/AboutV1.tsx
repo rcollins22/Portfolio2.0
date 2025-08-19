@@ -58,17 +58,17 @@ const AboutV1 = () => {
                             <div className="fun-fact-style-one-items">
                                 <div className="fun-fact">
                                     <div className="counter">
-                                        <div className="timer"> <CountUp end={5} enableScrollSpy={true} /></div>
+                                        <div className="timer"> <CountUp end={7} enableScrollSpy={true} /></div>
                                         <div className="operator">+</div>
                                     </div>
                                     <span className="medium">Years of Professional Experience</span>
                                 </div>
                                 <div className="fun-fact">
                                     <div className="counter">
-                                        <div className="timer"><CountUp end={50} enableScrollSpy={true} /></div>
+                                        <div className="timer"><CountUp end={5} enableScrollSpy={true} /></div>
                                         <div className="operator">+</div>
                                     </div>
-                                    <span className="medium">Projects Delivered</span>
+                                    <span className="medium">Years of Blockchain Experience</span>
                                 </div>
                             </div>
                         </div>
